@@ -15,7 +15,7 @@ Le controle se fait par l'appel des fonctions suivantes :
 	tourne_gauche() => fait tourner la fleche vers la gauche
 	tourne_droite() => fait tourner la fleche vers la droite
 
-L'arrivee est symbolisée par un carré vert, les chemins par des carrés crêmes et les murs
+L'arrivée est symbolisée par un carré vert, les chemins par des carrés crêmes et les murs
 par des carrés noirs.
 
 ## Edition
