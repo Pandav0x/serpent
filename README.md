@@ -53,15 +53,15 @@ soit par le menu démarrer > Tous les programmes > Accessoires > invite de comma
 Soit par le racourcis [windows]+[r], entrez 'cmd' puis appuyez sur entrer.
 Entrez ensuite la commande suivante :
 	
-	`start python.exe`
+	start python.exe
 
 Si une nouvelle console s'ouvre, python à bien été installé. Sinon, réinstallez-le.
 Une fois cette nouvelle fenêtre ouverte, patientez jusqu'à ce que la dernière ligne
 affichée soit '>>>' puis tapez les commandes suivantes :
 	
-	`import pygame`
+	import pygame
 
-	`pygame.ver`
+	pygame.ver
 
 Si le programme vous répond '1.9.1release', tout à correctement été installé. Sinon, si une erreur
 survient lors de la réalisation d'une de ces étapes, recommencez l'installation.
@@ -75,7 +75,7 @@ Vous devrez alors taper le chemin absolu de votre executable python (par defaut 
 un espace puis maze.py 
 Votre console devrait ressemblée à ceci 
 
-`C:\Users\Bob\Desktop\python>C:\python27\python.exe maze.py`
+	C:\Users\Bob\Desktop\python>C:\python27\python.exe maze.py
 
 appuyez sur entrer, vous n'aurez alors plus qu'à appuyer sur la flèche du haut pour remettre cette ligne
 et réappuyer sur entrer
