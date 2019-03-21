@@ -1,5 +1,7 @@
 # Serpent
 
+**This program in documented in french and is heavilly commented in french as well**
+
 ## Introduction
 
 Ce programme se veut pédagogique : il à été créer dans le but de faire découvrir
