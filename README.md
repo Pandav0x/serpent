@@ -11,11 +11,9 @@ Le but est de faire atteindre la sortie du labyrinthe a la fleche qui est contro
 l'utilisateur.
 Le controle se fait par l'appel des fonctions suivantes :
 
-	```
  	avance() => fait avancer la fleche vers la case ou elle pointe si cela est possible
 	tourne_gauche() => fait tourner la fleche vers la gauche
 	tourne_droite() => fait tourner la fleche vers la droite
-  	```
 
 L'arrivee est symbolisée par un carré vert, les chemins par des carrés crêmes et les murs
 par des carrés noirs.
